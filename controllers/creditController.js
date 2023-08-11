@@ -4,7 +4,8 @@ const creditCards = [
       cardLimits: '907.21',
       currency: 'PLN',
       expiry: '12/2025',
-      cardNumber: '2137',
+      cardNumber: '1111 5643 6789 2137',
+      cvc: '420',
     },
     // Add more fake credit card data here if needed
   ];
