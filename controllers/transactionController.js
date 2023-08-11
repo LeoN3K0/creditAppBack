@@ -11,6 +11,18 @@ const transactions = [
       amount: '20.00 PLN',
       month: 'August',
     },
+    {
+      businessName: 'Taco Bell',
+      type: 'Food',
+      amount: '45.21 PLN',
+      month: 'August',
+    },
+    {
+      businessName: 'At Home',
+      type: 'Households',
+      amount: '15.00 PLN',
+      month: 'August',
+    },
     // Add more transactions here if needed
   ];
   
