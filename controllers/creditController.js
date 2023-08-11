@@ -1,7 +1,7 @@
 const creditCards = [
     {
       id: 1,
-      cardLimits: '907.21',
+      monthlyIncome: "13099.00",
       currency: 'PLN',
       expiry: '12/2025',
       cardNumber: '1111 5643 6789 2137',
